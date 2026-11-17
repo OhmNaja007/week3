@@ -14,7 +14,7 @@ p-6 shadow-lg">
 <p class="mt-2 text-slate-600">
 การ์ดใบแรกของฉัน
 </p>
-<button class="mt-4 rounded-lg bg-sky-700
+<button class="mt-4 rounded-lg bg-green-700
 px-4 py-2 text-white">
 เริ่มเลย
 </button>
